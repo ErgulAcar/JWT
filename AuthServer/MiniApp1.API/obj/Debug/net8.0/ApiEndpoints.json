@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MiniApp1.API.Controllers.StockController",
+    "Method": "GetStock",
+    "RelativePath": "api/Stock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

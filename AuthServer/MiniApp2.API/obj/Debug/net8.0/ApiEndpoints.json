@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MiniApp2.API.Controllers.MiniTwoController",
+    "Method": "Get",
+    "RelativePath": "api/MiniTwo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

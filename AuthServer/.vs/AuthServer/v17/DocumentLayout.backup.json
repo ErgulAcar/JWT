@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Erg\u00FCl\\JWT\\AuthServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|d:\\erg\u00FCl\\jwt\\authserver\\sharedlibrary\\extensions\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\extensions\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|d:\\erg\u00FCl\\jwt\\authserver\\sharedlibrary\\extensions\\customvalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\extensions\\customvalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|d:\\erg\u00FCl\\jwt\\authserver\\sharedlibrary\\extensions\\customtokenauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\extensions\\customtokenauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|d:\\erg\u00FCl\\jwt\\authserver\\sharedlibrary\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7C931D-DCF0-45A2-B133-9AED95B96CD3}|AuthServer.API\\AuthServer.API.csproj|d:\\erg\u00FCl\\jwt\\authserver\\authserver.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7C931D-DCF0-45A2-B133-9AED95B96CD3}|AuthServer.API\\AuthServer.API.csproj|solutionrelative:authserver.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|d:\\erg\u00FCl\\jwt\\authserver\\sharedlibrary\\dtos\\errordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A3787D-F4B9-40A7-8ED2-BCFB4A14DB97}|SharedLibrary\\SharedLibrary.csproj|solutionrelative:sharedlibrary\\dtos\\errordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7C931D-DCF0-45A2-B133-9AED95B96CD3}|AuthServer.API\\AuthServer.API.csproj|d:\\erg\u00FCl\\jwt\\authserver\\authserver.api\\validations\\createuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7C931D-DCF0-45A2-B133-9AED95B96CD3}|AuthServer.API\\AuthServer.API.csproj|solutionrelative:authserver.api\\validations\\createuserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D0D5E0-25E3-4233-91D7-45011984B000}|MiniApp3.API\\MiniApp3.API.csproj|d:\\erg\u00FCl\\jwt\\authserver\\miniapp3.api\\miniapp3.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49D0D5E0-25E3-4233-91D7-45011984B000}|MiniApp3.API\\MiniApp3.API.csproj|solutionrelative:miniapp3.api\\miniapp3.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomTokenAuth.cs",
+              "DocumentMoniker": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Extensions\\CustomTokenAuth.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Extensions\\CustomTokenAuth.cs",
+              "ToolTip": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Extensions\\CustomTokenAuth.cs",
+              "RelativeToolTip": "SharedLibrary\\Extensions\\CustomTokenAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:58:14.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Extensions\\CustomExceptionHandler.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Extensions\\CustomExceptionHandler.cs",
+              "ToolTip": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Extensions\\CustomExceptionHandler.cs",
+              "RelativeToolTip": "SharedLibrary\\Extensions\\CustomExceptionHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:56:24.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Exceptions\\CustomException.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Exceptions\\CustomException.cs",
+              "ToolTip": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Exceptions\\CustomException.cs",
+              "RelativeToolTip": "SharedLibrary\\Exceptions\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:49:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomValidationResponse.cs",
+              "DocumentMoniker": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Extensions\\CustomValidationResponse.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Extensions\\CustomValidationResponse.cs",
+              "ToolTip": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Extensions\\CustomValidationResponse.cs",
+              "RelativeToolTip": "SharedLibrary\\Extensions\\CustomValidationResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:44:02.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Erg\u00FCl\\JWT\\AuthServer\\AuthServer.API\\Program.cs",
+              "RelativeDocumentMoniker": "AuthServer.API\\Program.cs",
+              "ToolTip": "D:\\Erg\u00FCl\\JWT\\AuthServer\\AuthServer.API\\Program.cs",
+              "RelativeToolTip": "AuthServer.API\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:36:02.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserDtoValidator.cs",
+              "DocumentMoniker": "D:\\Erg\u00FCl\\JWT\\AuthServer\\AuthServer.API\\Validations\\CreateUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "AuthServer.API\\Validations\\CreateUserDtoValidator.cs",
+              "ToolTip": "D:\\Erg\u00FCl\\JWT\\AuthServer\\AuthServer.API\\Validations\\CreateUserDtoValidator.cs",
+              "RelativeToolTip": "AuthServer.API\\Validations\\CreateUserDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:32:13.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorDto.cs",
+              "DocumentMoniker": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Dtos\\ErrorDto.cs",
+              "RelativeDocumentMoniker": "SharedLibrary\\Dtos\\ErrorDto.cs",
+              "ToolTip": "D:\\Erg\u00FCl\\JWT\\AuthServer\\SharedLibrary\\Dtos\\ErrorDto.cs",
+              "RelativeToolTip": "SharedLibrary\\Dtos\\ErrorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:25:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniApp3.API",
+              "DocumentMoniker": "D:\\Erg\u00FCl\\JWT\\AuthServer\\MiniApp3.API\\MiniApp3.API.csproj",
+              "RelativeDocumentMoniker": "MiniApp3.API\\MiniApp3.API.csproj",
+              "ToolTip": "D:\\Erg\u00FCl\\JWT\\AuthServer\\MiniApp3.API\\MiniApp3.API.csproj",
+              "RelativeToolTip": "MiniApp3.API\\MiniApp3.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T11:23:37.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
